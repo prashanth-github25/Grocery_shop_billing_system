@@ -27,3 +27,10 @@ It provides a user friendly interface for the shopkeeper to make it easy for usa
 - This project is currently not finished for the actual implementation at the shops, its actually a simple and basic project which does some basic things. I would like to or maybe enhance it in the future where we wil be able to actually implement the software in the shops.
 - Currently it has no database, it just has json file which stores only the inventory products, and is not suitable for large scale implementation.
 - We can say this as a project suitable for college submissions
+
+----------How to run----------
+- Open VS code(or any other code editors)
+- Clone the grocery_shop1 file
+- Install FastApi, Jinja2templates and Uvicorn (search in google how to) in the terminal (refer requirements.txt if nescessary)
+- Run the command -> python -m uvicorn main:app --reload
+- Then open the URL, your server will be running and the home page will be opened in the browser. 
