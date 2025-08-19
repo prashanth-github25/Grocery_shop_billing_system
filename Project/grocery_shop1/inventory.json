@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Rice",
+        "price": 45.0,
+        "stock": 45.0
+    },
+    {
+        "name": "Sugar",
+        "price": 42,
+        "stock": 2.0
+    },
+    {
+        "name": "Milk",
+        "price": 30,
+        "stock": 25
+    },
+    {
+        "name": "Oil",
+        "price": 125,
+        "stock": 12
+    },
+    {
+        "name": "Egg",
+        "price": 6.0,
+        "stock": 30.0
+    },
+    {
+        "name": "jaggery",
+        "price": 25.0,
+        "stock": 0.0
+    },
+    {
+        "name": "Dal",
+        "price": 60.0,
+        "stock": 10.0
+    },
+    {
+        "name": "tomato",
+        "price": 20.0,
+        "stock": 5.0
+    }
+]
